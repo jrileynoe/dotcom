@@ -41,12 +41,9 @@ url = "https://de.linkedin.com/"
 [[params.socialIcons]]
 icon = "fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/"
 
-[[params.socialIcons]]
-icon = "fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/"
+
 
 [[params.socialIcons]]
 icon = "fa-envelope"
